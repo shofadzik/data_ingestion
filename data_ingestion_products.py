@@ -15,3 +15,5 @@ cur.copy_expert(sql,csv_file)
 csv_file.close()
 cur.close
 conn.close
+
+###
